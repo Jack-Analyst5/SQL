@@ -10,8 +10,6 @@ These are some examples of my SQL tasks that I needed to do during the course. I
 
 Here are some examples of SQL queries and schema designs I created:
 
-![Product and Customer Tables](sql1.png)
-
 ![Schema Design 1](sql1.png)
 ![Schema Design 2](sql2.png)
 ![SQL Queries](sql3.png)
